@@ -42,11 +42,12 @@
 ## :earth_americas: &nbsp;Onde me encontrar:
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:wesleyelias1999@gmail.com"/></a>
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/wesley-elias/)" /></a>
-  <a href="#" alt="WhatsApp">
+  <a href="mailto:wesleyelias1999@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:wesleyelias1999@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/wesley-elias/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wesley-elias/](https://www.linkedin.com/in/wesley-elias/)" /></a>
+  <a href="tel:+5537999746545" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5537999746545&text=Olá%20dev! 👋"/></a>
-  
+
+  [![GitHub SEU NOME](https://img.shields.io/github/followers/Wesley-Elias?label=follow&style=social)](https://github.com/Wesley-Elias)
 </p>
