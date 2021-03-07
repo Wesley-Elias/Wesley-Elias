@@ -1,14 +1,15 @@
 # Wesley Elias 
 
 ## 👨🏻 &nbsp;Sobre mim
-<P>
-  - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.<br>
-  - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="(http://www.uemg.br/)">UEMG</a>.<br>
-  - 💼 &nbsp; Trabalhando como **Técnico em Informática** na <a href="(https://www.itauna.mg.gov.br/)">Prefeitura Municipal de Itaúna</a><br>
-  - 🌱 &nbsp; Aprendendo mais sobre <strong>TypeScript</strong>, <strong>React JS</strong> e <strong> Next.js</strong>.
-</P>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Engenharia da Computação** na **[UEMG](http://www.uemg.br/)**.
+- 💼 &nbsp; Trabalhando como **Técnico em Informática** na **[Prefeitura Municipal de Itaúna](https://www.itauna.mg.gov.br/)**
+- 🌱 &nbsp; Aprendendo mais sobre <strong>TypeScript</strong>, <strong>React JS</strong> e <strong> Next.js</strong>.
 
 ## :rocket: &nbsp;Minhas Skills
+
+
 
 **Aplicações e Dados**
 
