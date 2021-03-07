@@ -1,11 +1,12 @@
 # Wesley Elias 
 
 ## 👨🏻 &nbsp;Sobre mim
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="(http://www.uemg.br/)">UEMG</a>.
-- 💼 &nbsp; Trabalhando como **Técnico em Informática** na <a href="(https://www.itauna.mg.gov.br/)">Prefeitura Municipal de Itaúna</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript**, **React JS**, **Next.js**.
+<P>
+  - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+  - 🎓 &nbsp; Estudando **Engenharia da Computação** na <a href="(http://www.uemg.br/)">UEMG</a>.<br>
+  - 💼 &nbsp; Trabalhando como **Técnico em Informática** na <a href="(https://www.itauna.mg.gov.br/)">Prefeitura Municipal de Itaúna</a><br>
+  - 🌱 &nbsp; Aprendendo mais sobre <strong>TypeScript</strong>, <strong>React JS</strong> e <strong> Next.js</strong>.
+</P>
 
 ## :rocket: &nbsp;Minhas Skills
 
@@ -42,12 +43,8 @@
 ## :earth_americas: &nbsp;Onde me encontrar:
 
 <p align="left">
-  <a href="mailto:wesleyelias1999@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:wesleyelias1999@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/wesley-elias/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wesley-elias/](https://www.linkedin.com/in/wesley-elias/)" /></a>
-  <a href="tel:+5537999746545" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5537999746545&text=Olá%20dev! 👋"/></a>
-
+ 
+  [![Linkedin: WesleyElias](https://img.shields.io/badge/-WesleyElias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-elias/)](https://www.linkedin.com/in/wesley-elias/)
+  [![Gmail Badge](https://img.shields.io/badge/-wesleyelias1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyelias1999@gmail.com)](mailto:wesleyelias1999@gmail.com)
   [![GitHub SEU NOME](https://img.shields.io/github/followers/Wesley-Elias?label=follow&style=social)](https://github.com/Wesley-Elias)
 </p>
