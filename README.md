@@ -1,7 +1,5 @@
-# Wesley Elias
+# Wesley Elias 
 
-## Olá 👋 eu sou Wesley Elias
- 
 ## 👨🏻 &nbsp;Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -44,10 +42,11 @@
 ## :earth_americas: &nbsp;Onde me encontrar:
 
 <p align="left">
-
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyelias1999@gmail.com)](mailto:wesleyelias1999@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-elias/)](https://www.linkedin.com/in/wesley-elias/) 
-   <a href="#" alt="WhatsApp">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:wesleyelias1999@gmail.com"/></a>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/wesley-elias/)" /></a>
+  <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5537999746545&text=Olá%20dev! 👋"/></a>
   
 </p>
